@@ -1,0 +1,8 @@
+openai
+pypdf
+redis
+numexpr
+numpy
+wikipedia
+tiktoken
+faiss-cpu
